@@ -1,0 +1,5 @@
+- Rajouter une photo au début
+- Mettre le titre : Etudiant en gros
+- Il manque une qualité : déterminé
+- Mode : ajoute une ptn de photo bordel
+- Met à jour la photo du CV
